@@ -1,2 +1,3 @@
 # hello-world
-This will be a place where I store ideas, resources, or even share and discuss things with others.
+Hello!
+I'm Nuzhat and I like to eat tacos. 
